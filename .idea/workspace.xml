@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17fe9f1f-eb5d-47e2-a375-880a87cd65eb" name="Changes" comment="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
+    <list default="true" id="17fe9f1f-eb5d-47e2-a375-880a87cd65eb" name="Changes" comment="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <change afterPath="$PROJECT_DIR$/Images/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/salesgraph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/segment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/stock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/supplier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/suppliers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/warehouse-management-system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory_Icons/inventory.png" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory_Icons/inventory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory_Icons/inventory_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory_Icons/inventory_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory_Icons/inventory_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/reusableFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/reusableFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +46,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manikandan-gd-24/inventory-management-system.git",
+    "accountId": "c907c51e-06c2-49a1-b469-723d26ebccd9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -39,13 +68,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.colorpalette.executor": "Run",
     "Python.dashboard.executor": "Run",
+    "Python.reusableFrame.executor": "Run",
     "Python.utility_functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Learnings/PythonLearnings/InventorySystem/themes"
+    "last_opened_file_path": "D:/Learnings/PythonLearnings/InventorySystem/Images"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -56,6 +86,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learnings\PythonLearnings\InventorySystem\Images" />
       <recent name="D:\Learnings\PythonLearnings\InventorySystem\themes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -109,6 +140,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="reusableFrame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/components/reusableFrame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="utility_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="InventorySystem" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +189,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.dashboard" />
+        <item itemvalue="Python.reusableFrame" />
         <item itemvalue="Python.colorpalette" />
         <item itemvalue="Python.utility_functions" />
       </list>
@@ -195,10 +250,46 @@
       <option name="project" value="LOCAL" />
       <updated>1774506294251</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774506796276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774506796276</updated>
+    </task>
+    <task id="LOCAL-00007" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774506814513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774506814513</updated>
+    </task>
+    <task id="LOCAL-00008" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774506888685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774506888685</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/manikandan-gd-24/inventory-management-system&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
     <MESSAGE value="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
     <option name="LAST_COMMIT_MESSAGE" value="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
   </component>
