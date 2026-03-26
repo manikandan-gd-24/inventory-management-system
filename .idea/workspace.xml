@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17fe9f1f-eb5d-47e2-a375-880a87cd65eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InventorySystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colorpalette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/reusableFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/autumn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/breeze.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/carrot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/cherry.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/coffee.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/lavender.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/marsh.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/metal.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/midnight.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/orange.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/patina.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/pink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/red.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/rime.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/rose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/sky.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/violet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/yellow.json" afterDir="false" />
-    </list>
+    <list default="true" id="17fe9f1f-eb5d-47e2-a375-880a87cd65eb" name="Changes" comment="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +40,12 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Learnings/PythonLearnings/InventorySystem/themes"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -170,6 +149,35 @@
       <option name="presentableId" value="Default" />
       <updated>1774446219154</updated>
     </task>
+    <task id="LOCAL-00001" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774505959959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774505959959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774506086596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774506086596</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design.">
+      <option name="closed" value="true" />
+      <created>1774506149723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774506149723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
+    <option name="LAST_COMMIT_MESSAGE" value="project setup and first push.&#10;created the main screen script - dashboard.py.&#10;added title label and button.&#10;&#10;added a resuableFrame.py script for frame  reusable creation.&#10;&#10;imported themes for design." />
   </component>
 </project>
